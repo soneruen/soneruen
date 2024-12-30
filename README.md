@@ -1,23 +1,27 @@
 <!-- Profile Header -->
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+<h1 align="center">👋Hey, Welcome to My GitHub Profile!</h1>
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soneruen&theme=tokyonight&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-  
+
 ![snake gif](https://github.com/soneruen/soneruen/blob/output/github-snake-dark.svg)
 
 </div>
 
-# <div align="center">About Me</div>
-- 🌱 I’m currently learning advanced JavaScript and React.
-- 💬 Ask me about anything related to web development or Python.
-- ⚡ Fun fact: I tell the truth, even when I lie!
-- ⚡ favorite cite: The eyes chico, they never lie.
+---
 
+# <div align="center">⏳ About Me</div>
+- 🎓 I’m a Data and Information Science student with a passion for coding and technology.
+- 💻 I enjoy developing interfaces for games and websites, with a special interest in data visualization.
+- ⚙️ My journey into the IT world began in middle school, where I started building and tinkering with PC parts to create my own system.
+- 📚 Currently, I’m learning SQL, Python (including packages for data analysis), and working on a group project to enhance my skills.
+- 📖 In my free time, I also enjoy reading about psychological concepts and exploring how they can relate to the human.
+- 🎮 When I’m not coding, I like to dive into new game development ideas or improve my data analysis techniques.
+---
 
-# <div align="center">💻Tech Stack</div>
+# <div align="center">`💻Tech Stack`</div>
 
 <div align="center">
   
@@ -29,9 +33,23 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# `💬quotes`
+ <div style="border: 2px solid #4CAF50; padding: 20px; background-color: #f0f8f0; width: 80%; border-radius: 10px;">
+        <blockquote style="font-size: 1.2em; font-style: italic; color: #333;">
+            "Indeed, with hardship comes ease."  
+            <br><strong>(94:6)</strong>
+        </blockquote>
+    </div>
+    <br>
+    <div style="border: 2px solid #f39c12; padding: 20px; background-color: #fef4e1; width: 80%; border-radius: 10px;">
+        <blockquote style="font-size: 1.2em; font-style: italic; color: #2c3e50;">
+            "The eyes, Chico, they never lie."  
+            <br><strong>- Scarface</strong>
+        </blockquote>
+    </div>
 
+    
 </div>
+
 
 [![](https://visitcount.itsvg.in/api?id=test&icon=0&color=0)](https://visitcount.itsvg.in)
