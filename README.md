@@ -1,6 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">👋Hey, Welcome to My GitHub Profile!</h1>
-<div align="center">
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> 
+    👋 Hey, Welcome to My GitHub Profile! 
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soneruen&theme=tokyonight&hide_border=false)<br/>
