@@ -12,7 +12,7 @@
 
 ---
 
-# <div align="center">⏳ About Me</div>
+# <div align="center">`⏳About Me`</div>
 - 🎓 I’m a Data and Information Science student with a passion for coding and technology.
 - 💻 I enjoy developing interfaces for games and websites, with a special interest in data visualization.
 - ⚙️ My journey into the IT world began in middle school, where I started building and tinkering with PC parts to create my own system.
