@@ -1,14 +1,23 @@
 <!-- Profile Header -->
 <h1 align="center">Welcome to My GitHub Profile!</h1>
+<div align="center">
 
-## <div align="center">About Me</div>
+![](https://github-readme-stats.vercel.app/api?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=soneruen&theme=tokyonight&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+  
+![snake gif](https://github.com/soneruen/soneruen/blob/output/github-snake-dark.svg)
+
+</div>
+
+# <div align="center">About Me</div>
 - 🌱 I’m currently learning advanced JavaScript and React.
 - 💬 Ask me about anything related to web development or Python.
 - ⚡ Fun fact: I tell the truth, even when I lie!
 - ⚡ favorite cite: The eyes chico, they never lie.
 
 
-## <div align="center">💻Tech Stack</div>
+# <div align="center">💻Tech Stack</div>
 
 <div align="center">
   
@@ -16,3 +25,13 @@
 
 </div>
 
+---
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+[![](https://visitcount.itsvg.in/api?id=test&icon=0&color=0)](https://visitcount.itsvg.in)
