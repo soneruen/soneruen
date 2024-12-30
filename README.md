@@ -2,7 +2,7 @@
 <h1 align="center">👋Hey, Welcome to My GitHub Profile!</h1>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soneruen&theme=tokyonight&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soneruen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
@@ -37,16 +37,17 @@
  <div style="border: 2px solid #4CAF50; padding: 20px; background-color: #f0f8f0; width: 80%; border-radius: 10px;">
         <blockquote style="font-size: 1.2em; font-style: italic; color: #333;">
             "Indeed, with hardship comes ease."  
-            <br><strong>(94:6)</strong>
+            <br><strong>• (94:6)</strong>
         </blockquote>
     </div>
     <br>
     <div style="border: 2px solid #f39c12; padding: 20px; background-color: #fef4e1; width: 80%; border-radius: 10px;">
         <blockquote style="font-size: 1.2em; font-style: italic; color: #2c3e50;">
             "The eyes, Chico, they never lie."  
-            <br><strong>- Scarface</strong>
+            <br><strong>• Scarface</strong>
         </blockquote>
     </div>
 
-    
 </div>
+
+![End GIF 2](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
