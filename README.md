@@ -16,8 +16,8 @@
 
 ---
 
-# <div align="center">`⏳About Me`</div>
-- 🎓 I’m a Data and Information Science student with a passion for coding and technology.
+# <div align="center">`⏳ About Me ⏳`</div>
+- 🎓 I’m a Data and Information Science student from germany with a passion for coding and technology.
 - 💻 I enjoy developing interfaces for games and websites, with a special interest in data visualization.
 - ⚙️ My journey into the IT world began in middle school, where I started building and tinkering with PC parts to create my own system.
 - 📚 Currently, I’m learning SQL, Python (including packages for data analysis), and working on a group project to enhance my skills.
@@ -25,7 +25,7 @@
 - 🎮 When I’m not coding, I like to dive into new game development ideas or improve my data analysis techniques.
 ---
 
-# <div align="center">`💻Tech Stack`</div>
+# <div align="center">`💻 Language-Framework-Tools 🛠️`</div>
 
 <div align="center">
   
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-# `💬quotes`
+# `💬 quotes 💬`
  <div style="border: 2px solid #4CAF50; padding: 20px; background-color: #f0f8f0; width: 80%; border-radius: 10px;">
         <blockquote style="font-size: 1.2em; font-style: italic; color: #333;">
             "Indeed, with hardship comes ease."  
@@ -56,3 +56,4 @@
 </div>
 
 ![End GIF 2](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
