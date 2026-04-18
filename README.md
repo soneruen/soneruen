@@ -20,7 +20,7 @@
 
 <div align="center">
 
-# `💬 quotes 💬`
+# `💬 fav quotes 💬`
  <div style="border: 2px solid #4CAF50; padding: 20px; background-color: #f0f8f0; width: 80%; border-radius: 10px;">
         <blockquote style="font-size: 1.2em; font-style: italic; color: #333;">
             "Indeed, with hardship comes ease."  
