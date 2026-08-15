@@ -8,7 +8,7 @@ Data & AI Enthusiast specializing in **NLP**, **LLM Pipelines**, and **Generativ
 
 - 🧪 **Local AI & Benchmarking:** In my free time, I love experimenting with open-source AI models, running them locally on **Apple Silicon**, and benchmarking their performance.
 - 🧠 **Second Brain:** I build and maintain my personal knowledge base in **Obsidian**, integrating it with LLMs using **MCP (Model Context Protocol)**.
-- 🎵 **Passions:** I'm passionate about music — which often inspires my data engineering and NLP projects.
+- 🎵 **Passions:** I'm passionate about music.
 
 ---
 
